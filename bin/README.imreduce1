@@ -1,0 +1,1 @@
+gcc -o imreduce1 imreduce1.c -L. -lcfitsio -lm
